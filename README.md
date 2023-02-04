@@ -1,1 +1,1 @@
-# PRO-C178-Boilerplate
+Output: ![](https://i.imgur.com/lyjuWjj.png)
